@@ -4,3 +4,4 @@
 4. Welcome To Tech Palace (welcome_to_tech_palace)
 5. Party Robot (party_robot)
 6. Vehicle Purchase (vehicle_purchase)
+7. Blackjack (blackjack)
